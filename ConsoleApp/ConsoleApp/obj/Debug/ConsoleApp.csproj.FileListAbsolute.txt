@@ -1,0 +1,7 @@
+D:\gitproj2020\leetcode\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\gitproj2020\leetcode\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\gitproj2020\leetcode\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\gitproj2020\leetcode\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\gitproj2020\leetcode\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\gitproj2020\leetcode\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\gitproj2020\leetcode\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
